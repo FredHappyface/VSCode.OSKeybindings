@@ -3,30 +3,21 @@
 <a href="https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings"><img src="https://img.shields.io/codacy/grade/[codacy-proj-id].svg?style=flat-square" alt="Codacy grade"></a>
 <a href="https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings"><img src="https://img.shields.io/codacy/coverage/[codacy-proj-id].svg?style=flat-square" alt="Codacy coverage"></a>
 <a href="../../"><img src="https://img.shields.io/github/repo-size/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Repository size"></a>
-<a href="../../issues"><img src="https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Issues"></a>
+<a href="../../../issues"><img src="https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Issues"></a>
 <a href="/LICENSE.md"><img src="https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="License"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Commit activity"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Last commit"></a>
+<a href="../../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Commit activity"></a>
+<a href="../../../commits/master"><img src="https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Last commit"></a>
 </p>
 
-# VSCode.OSKeybindings
+# VSCode.OSKeybindings.Windows
 
-<img src="icons/Linux.png" alt="Project Icon" width="100">
-<img src="icons/Mac.png" alt="Project Icon" width="100">
-<img src="icons/Windows.png" alt="Project Icon" width="100">
+<img src="https://github.com/FredHappyface/VSCode.OSKeybindings/icons/Windows.png" alt="Project Icon" width="100">
+
+Use Windows Keybindings on any OS
 
 
-- Use Linux Keybindings on any OS
-- Use Mac Keybindings on any OS
-- Use Windows Keybindings on any OS
-
-This extension does not remove any existing bindings. On the same os as that of
-the keybindings that means everything will be bound twice. On other OS' that
-means that the keybindings will be in addition to the default (note that they
-take precedence over the default bindings)
-
-Take a look at https://code.visualstudio.com/api/get-started/your-first-extension
-to get started.
+## Changelog
+See the [CHANGELOG](/CHANGELOG.md) for more information.
 
 ## Download
 ### Clone
@@ -61,4 +52,4 @@ More information can be found at
 ## Licence
 BSD2-Patent License
 Copyright (c) FredHappyface
-(See the [LICENSE](/LICENSE.md) for more information.)
+(See the [LICENSE](../LICENSE.md) for more information.)

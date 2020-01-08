@@ -1,0 +1,20 @@
+{
+    "name": "windowskeybindings",
+    "displayName": "WindowsKeybindings",
+    "description": "Use Linux Keybindings on any OS",
+    "version": "1.41.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Keymaps"
+    ],
+    "contributes": {
+        "keybindings": [
+            {
+                "key": "ctrl+.",
+                "command": "workbench.action.showCommands"
+            }
+        ]
+    }
+}
