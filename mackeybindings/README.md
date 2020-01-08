@@ -1,8 +1,8 @@
 <p float="left">
-<a href="../../"><img src="https://img.shields.io/github/languages/top/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Github top language"></a>
+<a href="../../../><img src="https://img.shields.io/github/languages/top/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Github top language"></a>
 <a href="https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings"><img src="https://img.shields.io/codacy/grade/[codacy-proj-id].svg?style=flat-square" alt="Codacy grade"></a>
 <a href="https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings"><img src="https://img.shields.io/codacy/coverage/[codacy-proj-id].svg?style=flat-square" alt="Codacy coverage"></a>
-<a href="../../"><img src="https://img.shields.io/github/repo-size/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Repository size"></a>
+<a href="../../../><img src="https://img.shields.io/github/repo-size/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Repository size"></a>
 <a href="../../../issues"><img src="https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Issues"></a>
 <a href="/LICENSE.md"><img src="https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="License"></a>
 <a href="../../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Commit activity"></a>
@@ -11,7 +11,7 @@
 
 # VSCode.OSKeybindings.Mac
 
-<img src="https://github.com/FredHappyface/VSCode.OSKeybindings/icons/Mac.png" alt="Project Icon" width="100">
+<img src="../icons/Mac.png" alt="Project Icon" width="100">
 
 Use Mac Keybindings on any OS
 
