@@ -11,7 +11,7 @@
 
 # VSCode.OSKeybindings.Linux
 
-<img src="../icons/Linux.png" alt="Project Icon" width="100">
+<img src="Linux.png" alt="Project Icon" width="100">
 
 Use Linux Keybindings on any OS
 

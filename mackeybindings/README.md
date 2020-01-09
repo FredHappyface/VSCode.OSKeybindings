@@ -11,7 +11,7 @@
 
 # VSCode.OSKeybindings.Mac
 
-<img src="../icons/Mac.png" alt="Project Icon" width="100">
+<img src="Mac.png" alt="Project Icon" width="100">
 
 Use Mac Keybindings on any OS
 

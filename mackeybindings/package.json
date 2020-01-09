@@ -1,20 +1,32 @@
 {
-    "name": "mackeybindings",
-    "displayName": "MacKeybindings",
-    "description": "Use Mac Keybindings on any OS",
-    "version": "1.41.0",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Keymaps"
-    ],
-    "contributes": {
-        "keybindings": [
-            {
-                "key": "ctrl+.",
-                "command": "workbench.action.showCommands"
-            }
-        ]
-    }
+	"name": "mackeybindings",
+	"displayName": "MacKeybindings",
+	"description": "Use Mac Keybindings on any OS",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FredHappyface/VSCode.OSKeybindings.git"
+	},
+	"icon": "Mac.png",
+	"license": "BSD-2-Clause-Patent",
+	"publisher": "fredhappyface",
+	"version": "1.41.0",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Keymaps"
+	],
+	"keywords": [
+		"keymap",
+		"mac",
+		"keybinding"
+	],
+	"contributes": {
+		"keybindings": [
+			{
+				"key": "ctrl+.",
+				"command": "workbench.action.showCommands"
+			}
+		]
+	}
 }

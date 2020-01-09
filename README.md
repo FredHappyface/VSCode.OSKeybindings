@@ -11,9 +11,9 @@
 
 # VSCode.OSKeybindings
 
-<img src="icons/Linux.png" alt="Project Icon" width="100">
-<img src="icons/Mac.png" alt="Project Icon" width="100">
-<img src="icons/Windows.png" alt="Project Icon" width="100">
+<img src="linuxkeybindings/Linux.png" alt="Project Icon" width="100">
+<img src="mackeybindings/Mac.png" alt="Project Icon" width="100">
+<img src="windowskeybindings/Windows.png" alt="Project Icon" width="100">
 
 
 - Use Linux Keybindings on any OS

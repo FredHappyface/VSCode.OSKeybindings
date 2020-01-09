@@ -11,7 +11,7 @@
 
 # VSCode.OSKeybindings.Windows
 
-<img src="../icons/Windows.png" alt="Project Icon" width="100">
+<img src="Windows.png" alt="Project Icon" width="100">
 
 Use Windows Keybindings on any OS
 

@@ -1,14 +1,26 @@
 {
     "name": "windowskeybindings",
-    "displayName": "WindowsKeybindings",
-    "description": "Use Linux Keybindings on any OS",
-    "version": "1.41.0",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Keymaps"
-    ],
+	"displayName": "WindowsKeybindings",
+	"description": "Use Windows Keybindings on any OS",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FredHappyface/VSCode.OSKeybindings.git"
+	},
+	"icon": "Windows.png",
+	"license": "BSD-2-Clause-Patent",
+	"publisher": "fredhappyface",
+	"version": "1.41.0",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Keymaps"
+	],
+	"keywords": [
+		"keymap",
+		"windows",
+		"keybinding"
+	],
     "contributes": {
         "keybindings": [
             {
