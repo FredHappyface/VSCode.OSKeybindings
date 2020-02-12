@@ -26,6 +26,18 @@ take precedence over the default bindings)
 Take a look at https://code.visualstudio.com/api/get-started/your-first-extension
 to get started.
 
+## Issues/ Conflicts
+
+There are some known issues and conflicts with other keybinding extensions.
+Currently, this is best fixed manually - see
+- https://github.com/yzhang-gh/vscode-markdown/issues/396
+- https://github.com/Microsoft/vscode/issues/39888
+
+Here is a list of those that I have suffered from. Follow the links and copy the
+contents of the file into your keybindings json file. Note that I'll add these
+to the extension at some point:
+- [Markdown All In One](MarkdownAllInOne.json)
+
 ## Download
 ### Clone
 #### Using The Command Line
