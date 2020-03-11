@@ -1,0 +1,27 @@
+{
+	"name": "tEMPLATEkeybindings",
+	"displayName": "TEMPLATEKeybindings",
+	"description": "Use TEMPLATE Keybindings on any OS",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FredHappyface/VSCode.OSKeybindings.git"
+	},
+	"icon": "TEMPLATE.png",
+	"license": "BSD-2-Clause-Patent",
+	"publisher": "fredhappyface",
+	"version": "VERSION",
+	"engines": {
+		"vscode": "^VERSION"
+	},
+	"categories": [
+		"Keymaps"
+	],
+	"keywords": [
+		"keymap",
+		"tEMPLATE",
+		"keybinding"
+	],
+	"contributes": {
+		"keybindings": ["KEYBINDINGS"]
+	}
+}

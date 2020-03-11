@@ -1,11 +1,10 @@
-<p float="left">
-<a href="../../"><img src="https://img.shields.io/github/languages/top/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Github top language"></a>
-<a href="../../"><img src="https://img.shields.io/github/repo-size/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Repository size"></a>
-<a href="../../issues"><img src="https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Issues"></a>
-<a href="/LICENSE.md"><img src="https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="License"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Commit activity"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=flat-square" alt="Last commit"></a>
-</p>
+[![Github top language](https://img.shields.io/github/languages/top/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../)
+[![Codacy grade](https://img.shields.io/codacy/grade/16d1e949f0c64918abca200bf4c5d71b.svg?style=for-the-badge)](https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings)
+[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../)
+[![Issues](https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../issues)
+[![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](/LICENSE.md)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
 
 # VSCode.OSKeybindings
 

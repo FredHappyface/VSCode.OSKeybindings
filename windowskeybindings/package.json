@@ -9,7 +9,7 @@
 	"icon": "Windows.png",
 	"license": "BSD-2-Clause-Patent",
 	"publisher": "fredhappyface",
-	"version": "1.41.0",
+	"version": "1.41.1",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
