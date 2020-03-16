@@ -14,8 +14,20 @@
 
 
 - Use Linux Keybindings on any OS
+
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
 - Use Mac Keybindings on any OS
+
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
 - Use Windows Keybindings on any OS
+
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.windowskeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.windowskeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
 
 This extension does not remove any existing bindings. On the same os as that of
 the keybindings that means everything will be bound twice. On other OS' that

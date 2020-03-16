@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
 
 # VSCode.OSKeybindings.Linux
 

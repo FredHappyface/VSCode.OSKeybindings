@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
 
 # VSCode.OSKeybindings.Mac
 
