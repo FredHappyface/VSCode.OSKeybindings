@@ -1,10 +1,9 @@
-[![Github top language](https://img.shields.io/github/languages/top/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../)
-[![Codacy grade](https://img.shields.io/codacy/grade/16d1e949f0c64918abca200bf4c5d71b.svg?style=for-the-badge)](https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings)
-[![Repository size](https://img.shields.io/github/repo-size/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../)
-[![Issues](https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../issues)
-[![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](/LICENSE.md)
-[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
-[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge)](../../commits/master)
+[![Github top language](https://img.shields.io/github/languages/top/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../)
+[![Codacy grade](https://img.shields.io/codacy/grade/16d1e949f0c64918abca200bf4c5d71b.svg?style=for-the-badge&cacheSeconds=28800)](https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings)
+[![Issues](https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../issues)
+[![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](/LICENSE.md)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
 
 # VSCode.OSKeybindings
 
@@ -15,19 +14,19 @@
 
 - Use Linux Keybindings on any OS
 
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
 - Use Mac Keybindings on any OS
 
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
 - Use Windows Keybindings on any OS
 
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.windowskeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.windowskeybindings.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
 
 This extension does not remove any existing bindings. On the same os as that of
 the keybindings that means everything will be bound twice. On other OS' that
