@@ -4,13 +4,20 @@
 [![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
 
 # VSCode.OSKeybindings.Windows
 
 <img src="https://raw.githubusercontent.com/FredHappyface/VSCode.OSKeybindings/master/windowskeybindings/Windows.png" alt="Project Icon" width="100">
+
+[![Static Badge](https://img.shields.io/badge/Windows_Keybindings-VSCode_Marketplace-purple?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/stars/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+
+[![Static Badge](https://img.shields.io/badge/Windows_Keybindings-Open_VSX-purple?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Rating](https://img.shields.io/open-vsx/stars/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
 
 Use Windows Keybindings on any OS
 

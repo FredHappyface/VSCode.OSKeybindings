@@ -4,13 +4,20 @@
 [![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
 
 # VSCode.OSKeybindings.Mac
 
 <img src="https://raw.githubusercontent.com/FredHappyface/VSCode.OSKeybindings/master/mackeybindings/Mac.png" alt="Project Icon" width="100">
+
+[![Static Badge](https://img.shields.io/badge/Mac_Keybindings-VSCode_Marketplace-purple?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/stars/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+
+[![Static Badge](https://img.shields.io/badge/Mac_Keybindings-Open_VSX-purple?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Rating](https://img.shields.io/open-vsx/stars/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
 
 Use Mac Keybindings on any OS
 

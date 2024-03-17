@@ -7,35 +7,55 @@
 
 # VSCode.OSKeybindings
 
-<img src="linuxkeybindings/Linux.png" alt="Project Icon" width="100">
-<img src="mackeybindings/Mac.png" alt="Project Icon" width="100">
-<img src="windowskeybindings/Windows.png" alt="Project Icon" width="100">
-
-Use Linux Keybindings on any OS
-
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-
-Use Mac Keybindings on any OS
-
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-
-Use Windows Keybindings on any OS
-
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
-
-This extension does not remove any existing bindings. On the same os as that of
+These extensions do not remove any existing bindings. On the same os as that of
 the keybindings that means everything will be bound twice. On other OS' that
 means that the keybindings will be in addition to the default (note that they
 take precedence over the default bindings)
 
 Take a look at https://code.visualstudio.com/api/get-started/your-first-extension
 to get started.
+
+## Use Linux Keybindings on any OS
+
+<img src="linuxkeybindings/Linux.png" alt="Project Icon" width="100">
+
+[![Static Badge](https://img.shields.io/badge/Linux_Keybindings-VSCode_Marketplace-purple?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/stars/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+
+[![Static Badge](https://img.shields.io/badge/Linux_Keybindings-Open_VSX-purple?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Rating](https://img.shields.io/open-vsx/stars/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+
+## Use Mac Keybindings on any OS
+
+<img src="mackeybindings/Mac.png" alt="Project Icon" width="100">
+
+[![Static Badge](https://img.shields.io/badge/Mac_Keybindings-VSCode_Marketplace-purple?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/stars/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
+
+[![Static Badge](https://img.shields.io/badge/Mac_Keybindings-Open_VSX-purple?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Rating](https://img.shields.io/open-vsx/stars/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+
+## Use Windows Keybindings on any OS
+
+<img src="windowskeybindings/Windows.png" alt="Project Icon" width="100">
+
+[![Static Badge](https://img.shields.io/badge/Windows_Keybindings-VSCode_Marketplace-purple?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/stars/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
+
+[![Static Badge](https://img.shields.io/badge/Windows_Keybindings-Open_VSX-purple?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Rating](https://img.shields.io/open-vsx/stars/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
 
 ## Issues/ Conflicts
 

@@ -4,13 +4,20 @@
 [![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
-[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
 
 # VSCode.OSKeybindings.Linux
 
 <img src="https://raw.githubusercontent.com/FredHappyface/VSCode.OSKeybindings/master/linuxkeybindings/Linux.png" alt="Project Icon" width="100">
+
+[![Static Badge](https://img.shields.io/badge/Linux_Keybindings-VSCode_Marketplace-purple?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Rating](https://img.shields.io/visual-studio-marketplace/stars/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+[![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
+
+[![Static Badge](https://img.shields.io/badge/Linux_Keybindings-Open_VSX-purple?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Rating](https://img.shields.io/open-vsx/stars/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/fredhappyface/linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://open-vsx.org/extension/fredhappyface/linuxkeybindings)
 
 Use Linux Keybindings on any OS
 
