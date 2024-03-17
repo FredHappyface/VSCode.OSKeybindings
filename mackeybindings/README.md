@@ -28,34 +28,40 @@ to get started.
 
 There are some known issues and conflicts with other keybinding extensions.
 Currently, this is best fixed manually - see
+
 - https://github.com/yzhang-gh/vscode-markdown/issues/396
 - https://github.com/Microsoft/vscode/issues/39888
 
 Here is a list of those that I have suffered from. Follow the links and copy the
 contents of the file into your keybindings json file. Note that I'll add these
 to the extension at some point:
-- [Markdown All In One](https://github.com/FredHappyface/VSCode.OSKeybindings/blob/master/MarkdownAllInOne.json)
 
+- [Markdown All In One](https://github.com/FredHappyface/VSCode.OSKeybindings/blob/master/MarkdownAllInOne.json)
 
 ## Changelog
 See the [CHANGELOG](https://github.com/FredHappyface/VSCode.OSKeybindings/blob/master/mackeybindings/CHANGELOG.md) for more information.
 
 ## Download
+
 ### Clone
+
 #### Using The Command Line
+
 1. Press the Clone or download button in the top right
 2. Copy the URL (link)
 3. Open the command line and change directory to where you wish to
 clone to
 4. Type 'git clone' followed by URL in step 2
+
 ```bash
-$ git clone https://github.com/FredHappyface/VSCode.OSKeybindings
+git clone https://github.com/FredHappyface/VSCode.OSKeybindings
 ```
 
 More information can be found at
 <https://help.github.com/en/articles/cloning-a-repository>
 
 #### Using GitHub Desktop
+
 1. Press the Clone or download button in the top right
 2. Click open in desktop
 3. Choose the path for where you want and click Clone
@@ -68,7 +74,6 @@ More information can be found at
 1. Download this GitHub repository
 2. Extract the zip archive
 3. Copy/ move to the desired location
-
 
 ## Licence
 BSD2-Patent License
