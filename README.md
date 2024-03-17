@@ -11,18 +11,19 @@
 <img src="mackeybindings/Mac.png" alt="Project Icon" width="100">
 <img src="windowskeybindings/Windows.png" alt="Project Icon" width="100">
 
-
-- Use Linux Keybindings on any OS
+Use Linux Keybindings on any OS
 
 [![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
 [![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
 [![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.linuxkeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.linuxkeybindings)
-- Use Mac Keybindings on any OS
+
+Use Mac Keybindings on any OS
 
 [![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
 [![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
 [![VSCode Version](https://img.shields.io/visual-studio-marketplace/v/fredhappyface.mackeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.mackeybindings)
-- Use Windows Keybindings on any OS
+
+Use Windows Keybindings on any OS
 
 [![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
 [![VSCode Rating](https://img.shields.io/visual-studio-marketplace/r/fredhappyface.windowskeybindings.svg?style=for-the-badge&cacheSeconds=28800)](https://marketplace.visualstudio.com/items?itemName=fredhappyface.windowskeybindings)
@@ -40,30 +41,37 @@ to get started.
 
 There are some known issues and conflicts with other keybinding extensions.
 Currently, this is best fixed manually - see
+
 - https://github.com/yzhang-gh/vscode-markdown/issues/396
 - https://github.com/Microsoft/vscode/issues/39888
 
 Here is a list of those that I have suffered from. Follow the links and copy the
 contents of the file into your keybindings json file. Note that I'll add these
 to the extension at some point:
+
 - [Markdown All In One](MarkdownAllInOne.json)
 
 ## Download
+
 ### Clone
+
 #### Using The Command Line
+
 1. Press the Clone or download button in the top right
 2. Copy the URL (link)
 3. Open the command line and change directory to where you wish to
 clone to
 4. Type 'git clone' followed by URL in step 2
+
 ```bash
-$ git clone https://github.com/FredHappyface/VSCode.OSKeybindings
+git clone https://github.com/FredHappyface/VSCode.OSKeybindings
 ```
 
 More information can be found at
 <https://help.github.com/en/articles/cloning-a-repository>
 
 #### Using GitHub Desktop
+
 1. Press the Clone or download button in the top right
 2. Click open in desktop
 3. Choose the path for where you want and click Clone
@@ -76,7 +84,6 @@ More information can be found at
 1. Download this GitHub repository
 2. Extract the zip archive
 3. Copy/ move to the desired location
-
 
 ## Licence
 BSD2-Patent License
