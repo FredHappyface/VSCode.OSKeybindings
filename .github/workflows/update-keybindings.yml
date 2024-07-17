@@ -1,0 +1,38 @@
+name: Update keybindings in new PR
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+   update_packages:
+    name: Update keybindings
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update keybindings in package.json
+        run: |
+          python3 scripts/update_keybindings.py
+
+      - name: Diff
+        id: diff
+        run: |
+          if $(git diff --exit-code); then
+            echo "has-diff=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has-diff=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create PR
+        if: steps.diff.outputs.has-diff == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update keybindings"
+          title: "chore: update keybindings"
+          body: This PR updates the keybindings in all extensions
+          branch: master
+          base: update-using-vs-code-default-keybindings
