@@ -21,6 +21,8 @@
 
 Use Windows Keybindings on any OS
 
+Keybindings provided by https://github.com/codebling/vs-code-default-keybindings - Thank you!
+
 This extension does not remove any existing bindings. On the same os as that of
 the keybindings that means everything will be bound twice. On other OS' that
 means that the keybindings will be in addition to the default (note that they
