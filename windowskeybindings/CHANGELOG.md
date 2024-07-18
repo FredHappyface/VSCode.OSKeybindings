@@ -2,6 +2,12 @@
 All major and minor version changes will be documented in this file. Details of
 patch-level version changes can be found in [commit messages](../../commits/master).
 
+## 1.91.1 - 2024/07/17
+- Update for vscode 1.91
+- Use keybindings from [vs-code-default-keybindings](https://github.com/codebling/vs-code-default-keybindings)
+- Add auto-update for keybindings
+
+
 ## 1.58.0 - 2021/07/23
 - Update for VSCode 1.58
 - Removed duplicate keybindings for mac/ linux
