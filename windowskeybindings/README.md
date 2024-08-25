@@ -1,5 +1,4 @@
 [![Github top language](https://img.shields.io/github/languages/top/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../)
-[![Codacy grade](https://img.shields.io/codacy/grade/16d1e949f0c64918abca200bf4c5d71b.svg?style=for-the-badge&cacheSeconds=28800)](https://www.codacy.com/manual/FredHappyface/VSCode.OSKeybindings)
 [![Issues](https://img.shields.io/github/issues/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../issues)
 [![License](https://img.shields.io/github/license/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](/LICENSE.md)
 [![Commit activity](https://img.shields.io/github/commit-activity/m/FredHappyface/VSCode.OSKeybindings.svg?style=for-the-badge&cacheSeconds=28800)](../../commits/master)
@@ -23,13 +22,10 @@ Use Windows Keybindings on any OS
 
 Keybindings provided by https://github.com/codebling/vs-code-default-keybindings - Thank you!
 
-This extension does not remove any existing bindings. On the same os as that of
-the keybindings that means everything will be bound twice. On other OS' that
+This extension does not remove any existing bindings. On the same OS as that of
+the keybindings that means everything will be bound twice. On other OSes that
 means that the keybindings will be in addition to the default (note that they
 take precedence over the default bindings)
-
-Take a look at https://code.visualstudio.com/api/get-started/your-first-extension
-to get started.
 
 ## Issues/ Conflicts
 
@@ -40,47 +36,66 @@ Currently, this is best fixed manually - see
 - https://github.com/Microsoft/vscode/issues/39888
 
 Here is a list of those that I have suffered from. Follow the links and copy the
-contents of the file into your keybindings json file. Note that I'll add these
+contents of the file into your keybindings JSON file. Note that I'll add these
 to the extension at some point:
 
 - [Markdown All In One](https://github.com/FredHappyface/VSCode.OSKeybindings/blob/master/MarkdownAllInOne.json)
 
-## Changelog
-See the [CHANGELOG](https://github.com/FredHappyface/VSCode.OSKeybindings/blob/master/windowskeybindings/CHANGELOG.md) for more information.
+## Building
 
-## Download
+To build and publish a VS Code extension, follow these steps:
 
-### Clone
+1. **Install Dependencies**:
+   Make sure you have Node.js and npm installed. Then, install the VS Code Extension CLI:
+   ```bash
+   npm install -g @vscode/vsce
+   ```
 
-#### Using The Command Line
+2. **Build the Extension**:
+   Navigate to your extension directory and run:
+   ```bash
+   npm install
+   npm run compile
+   ```
 
-1. Press the Clone or download button in the top right
-2. Copy the URL (link)
-3. Open the command line and change directory to where you wish to
-clone to
-4. Type 'git clone' followed by URL in step 2
+3. **Package the Extension**:
+   Use the `vsce` CLI to package your extension:
+   ```bash
+   vsce package
+   ```
+
+## Publish the Extension
+
+### Publishing on Visual Studio Code Marketplace
+
+Follow the instructions on the [Visual Studio Code Marketplace](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) to publish your extension. You'll need a Personal Access Token (PAT) from Azure DevOps or GitHub for authentication.
+
+Use the `vsce` CLI to publish your extension:
 
 ```bash
-git clone https://github.com/FredHappyface/VSCode.OSKeybindings
+vsce publish
 ```
 
-More information can be found at
-<https://help.github.com/en/articles/cloning-a-repository>
+### Publishing on Open VSX
 
-#### Using GitHub Desktop
+In addition to the Visual Studio Code Marketplace, you can publish your extension on Open VSX, an open-source alternative for Visual Studio Code extensions. To publish on Open VSX, follow these steps:
 
-1. Press the Clone or download button in the top right
-2. Click open in desktop
-3. Choose the path for where you want and click Clone
+1. **Create an Open VSX Account**:
+   Sign up for an account on the [Open VSX Registry](https://open-vsx.org/).
 
-More information can be found at
-<https://help.github.com/en/desktop/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop>
+2. **Install the Open VSX CLI**:
+   Install the `ovsx` CLI tool using npm:
+   ```bash
+   npm install -g ovsx
+   ```
 
-### Download Zip File
+3. **Publish Your Extension**:
+   Then, use the `ovsx` CLI to publish it:
+   ```bash
+   ovsx publish <file> -p <token>
+   ```
 
-1. Download this GitHub repository
-2. Extract the zip archive
-3. Copy/ move to the desired location
+For detailed instructions and additional resources, visit the [Open VSX documentation](https://github.com/eclipse/openvsx/wiki/Publishing-Extensions).
 
 ## Licence
 BSD2-Patent License
