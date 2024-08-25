@@ -64,6 +64,7 @@ Currently, this is best fixed manually - see
 
 - https://github.com/yzhang-gh/vscode-markdown/issues/396
 - https://github.com/Microsoft/vscode/issues/39888
+- https://github.com/FredHappyface/VSCode.OSKeybindings/issues/9
 
 Here is a list of those that I have suffered from. Follow the links and copy the
 contents of the file into your keybindings json file. Note that I'll add these
